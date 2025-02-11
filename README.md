@@ -20,6 +20,10 @@ I will be using data from https://www.enecho.meti.go.jp/statistics/total_energy/
 
 ![Screen Shot 2025-02-11 at 2 19 47 PM](https://github.com/user-attachments/assets/11b68cac-1da8-40ce-8111-a21184ec352b)
 <br />
+
+![Screen Shot 2025-02-11 at 2 45 19 PM](https://github.com/user-attachments/assets/b3391354-5027-4e53-9195-a91859afe28e)
+<br />
+
 *Source: Book: Beyond the Limits to Growth - Hiroshi Komiyama* <br />
 https://www.researchgate.net/publication/317835499_Beyond_the_Limits_to_Growth
 
