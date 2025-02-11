@@ -15,6 +15,9 @@ I will be using this datasets: https://www.kaggle.com/datasets?tags=12044-Renewa
 I will be using data from https://www.enecho.meti.go.jp/statistics/total_energy/ for Japan
 Example. Comparision of current consumption vs consumption in 2005 
 
+
+![Distribution-of-energy-consumption-in-Japan-Data-from-Sogo-Enerugi-Tokei-2007-Data](https://github.com/user-attachments/assets/d7a94dce-c2e0-4fb1-b836-2a71acf56eb4)
+
 I will be using Datawrapper to paste my interactive graphs here https://www.datawrapper.de/
 I will be using Python tools for analysis: Matplotlib, Seaborn, Plotly
 I will also be learning Tableau and Power BI
