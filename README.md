@@ -19,5 +19,5 @@ I will also be learning Tableau and Power BI
 # Questions I want to answer: 
 1. Where is most energy used in the world and by country - For Energy Efficiency pourposes
 2. What is the cost of solar pannels by country - As part of the solutions
-3. Subsidiies to solar pannels by country - As part of the solutionsj
-4. 
+3. Subsidiies to solar pannels by country - As part of the solutions
+4. Savings to electric bills by country - As part of the solutions
