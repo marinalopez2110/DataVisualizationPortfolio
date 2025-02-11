@@ -27,7 +27,11 @@ I will be using data from https://www.enecho.meti.go.jp/statistics/total_energy/
 *Source: Book: Beyond the Limits to Growth - Hiroshi Komiyama* <br />
 https://www.researchgate.net/publication/317835499_Beyond_the_Limits_to_Growth
 
+# Energy Consumption in Japan in 2023
+Exploring data with DataWrapper
 
+<iframe title="Energy Consumption in Japan 2023" aria-label="Bar Chart" id="datawrapper-chart-pldQW" src="https://datawrapper.dwcdn.net/pldQW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="673" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 
 
 I will be using: <br />
