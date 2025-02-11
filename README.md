@@ -35,8 +35,7 @@ Exploring data with DataWrapper
 
 
 I will be using: <br />
-Datawrapper to paste my interactive graphs here https://www.datawrapper.de/ <br />
-Python tools for analysis: Matplotlib, Seaborn, Plotly <br /><br />
+Python tools for analysis: Pandas, Matplotlib, Seaborn, Plotly <br /><br />
 
 I will also be learning Tableau and Power BI
 
