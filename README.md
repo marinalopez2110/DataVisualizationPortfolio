@@ -42,3 +42,13 @@ I will also be learning Tableau and Power BI
 3. Subsidies to solar pannels by country - As part of the solutions
 4. Percentage of residential solar pannels by country, city and over the time
 5. Savings to electric bills by country - As part of the solutions
+
+# About the solutions 
+Examples and Analysis
+
+## Residential Case
+
+![Screen Shot 2025-02-11 at 3 16 04 PM](https://github.com/user-attachments/assets/377df496-c35e-4a65-bdb2-3a37bb54281b)
+
+## Bigger solutions: Manufacturing Case
+
