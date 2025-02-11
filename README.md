@@ -18,8 +18,10 @@ I will be using data from https://www.enecho.meti.go.jp/statistics/total_energy/
 
 ## Comparision of current energy consumption vs consumption in 2005 in Japan
 
+![Screen Shot 2025-02-11 at 2 19 47 PM](https://github.com/user-attachments/assets/11b68cac-1da8-40ce-8111-a21184ec352b)
+Source: Book: Beyond the Limits to Growth - Hiroshi Komiyama
+https://www.researchgate.net/publication/317835499_Beyond_the_Limits_to_Growth
 
-![Screen Shot 2025-02-11 at 2 17 33 PM](https://github.com/user-attachments/assets/fc05dcb3-cac9-4b22-bbcf-1d5e54c6d371)
 
 
 
