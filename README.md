@@ -17,6 +17,8 @@ Example. Comparision of current consumption vs consumption in 2005
 
 
 ![Distribution-of-energy-consumption-in-Japan-Data-from-Sogo-Enerugi-Tokei-2007-Data](https://github.com/user-attachments/assets/d7a94dce-c2e0-4fb1-b836-2a71acf56eb4)
+1 Distribution of energy consumption in Japan. (Data from Sogo Enerugi Tokei 2007 (Data: 2005), Japan Agency for National Resources and Energy). Note: Energy consumption at energy transformation sector indicates the energy is not converted to electricity as well as self consumption at power generations 
+
 
 I will be using Datawrapper to paste my interactive graphs here https://www.datawrapper.de/
 I will be using Python tools for analysis: Matplotlib, Seaborn, Plotly
