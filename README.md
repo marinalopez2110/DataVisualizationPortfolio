@@ -26,8 +26,10 @@ https://www.researchgate.net/publication/317835499_Beyond_the_Limits_to_Growth
 
 
 
-I will be using Datawrapper to paste my interactive graphs here https://www.datawrapper.de/
-I will be using Python tools for analysis: Matplotlib, Seaborn, Plotly
+I will be using: <br />
+Datawrapper to paste my interactive graphs here https://www.datawrapper.de/ <br />
+Python tools for analysis: Matplotlib, Seaborn, Plotly <br /><br />
+
 I will also be learning Tableau and Power BI
 
 # Questions I want to answer: 
