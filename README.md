@@ -53,7 +53,12 @@ Examples and Analysis
 
 ![Screen Shot 2025-02-11 at 3 16 04 PM](https://github.com/user-attachments/assets/377df496-c35e-4a65-bdb2-3a37bb54281b)
 
-Companies installing residencial solar panels: https://www.goda-j.co.jp/solar/
+Companies installing residencial solar panels: 
+
+https://www.goda-j.co.jp/solar/ <br />
+
+[Difference between leasing appartment and detached house 
+]([url](https://www.tepco-ht.co.jp/enekari/lp/zero/?utm_source=google&utm_medium=cpc&utm_content=7623707394_17929993428___&utm_campaign=&utm_term=_&gad_source=1&gclid=CjwKCAiA8Lu9BhA8EiwAag16b6J28qC8M7nO8sz4m1z4pu14NMGvC_7BLNObQ8jdmj48-4aq5IpJ8RoCdTEQAvD_BwE))
 
 ## Bigger solutions: Manufacturing Case
 
