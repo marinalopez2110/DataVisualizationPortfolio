@@ -53,5 +53,9 @@ Examples and Analysis
 
 ![Screen Shot 2025-02-11 at 3 16 04 PM](https://github.com/user-attachments/assets/377df496-c35e-4a65-bdb2-3a37bb54281b)
 
+Companies installing residencial solar panels: https://www.goda-j.co.jp/solar/
+
 ## Bigger solutions: Manufacturing Case
+
+Companies installing solar panels for companies https://www.goda-j.co.jp/sangyo/
 
